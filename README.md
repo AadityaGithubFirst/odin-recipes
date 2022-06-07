@@ -1,2 +1,2 @@
 # odin-recipes
-Three recipes
+In this Project I had to make a two websites called index.html and another on three or more recipes of my choice and make a website detailing this recipe. I have initially only added HTML and some basic CSS but I plan on updating the amount of CSS and give a few hints of Javascript in the time to come. Another thing that I have to do is to ensure that each page is linked properly i.e., one should be able to go from the index page to each recipe very easily. The code editor I have used is Microsoft Visual Code.
